@@ -14,6 +14,22 @@ pnpm dev
 bun dev
 ```
 
+##AI_MODEL Dependencies
+
+Install the following dependencies: 
+
+Flask==2.3.2
+scikit-learn==1.3.0
+pandas==2.0.3
+numpy==1.24.3
+joblib==1.3.2
+deep-translator==1.11.4
+imbalanced-learn==0.13.0
+xgboost==2.1.4
+nltk== 3.9.1
+
+There might be some other dependencies that are not listed here. Add them all to the 
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
